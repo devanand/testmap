@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+	width: 1200px;
+    height: 500px;
+}
